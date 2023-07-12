@@ -1,4 +1,4 @@
-[200~class Program 
+class Program 
 {
 	public static void main(String[] args) 
 	{    int space=0;
